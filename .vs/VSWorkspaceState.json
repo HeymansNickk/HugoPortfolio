@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\archetypes",
+    "\\content",
+    "\\content\\posts",
+    "\\data",
+    "\\resources\\_gen",
+    "\\resources\\_gen\\assets",
+    "\\resources\\_gen\\assets\\scss",
+    "\\resources\\_gen\\assets\\scss\\scss",
+    "\\themes",
+    "\\themes\\hello-friend-ng",
+    "\\themes\\hello-friend-ng\\exampleSite\\content",
+    "\\themes\\hello-friend-ng\\exampleSite\\resources"
+  ],
+  "SelectedNode": "\\content\\posts\\test-post.md",
+  "PreviewInSolutionExplorer": false
+}
