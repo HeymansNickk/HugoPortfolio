@@ -39,7 +39,7 @@ I have some extra [^1] info
 		ot
 		e it
 
-{{< figure src="/testPhoto.jpg" >}}
+{{< figure src="/uploads/images/testPhoto.jpg" >}}
 
 [Fix for images](https://github.com/rhazdon/hugo-theme-hello-friend-ng/issues/96)
 
