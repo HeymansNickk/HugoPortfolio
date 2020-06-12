@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Welkom op mijn Blog/Portfolio"
+  homeSubtitle = "Welkom op mijn Blog/Portfolio website"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -135,11 +135,11 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
-  [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url        = "tags/projects/"
-  [[menu.main]]
-    identifier = "school"
-    name       = "School"
-    url        = "categories/school/"
+  #[[menu.main]]
+    #identifier = "projects"
+    #name       = "Projects"
+    #url        = "tags/projects/"
+  #[[menu.main]]
+    #identifier = "school"
+    #name       = "School"
+    #url        = "categories/school/"
