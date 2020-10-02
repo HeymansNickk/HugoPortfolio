@@ -3,6 +3,8 @@ title: Eclipse Trouble
 date: 2020-10-02T07:26:54.670Z
 draft: false
 toc: false
+categories:
+  - school
 author: Nick Heymans
 ---
 I tried to start eclipse to do some java programming but i kept getteing this error:
