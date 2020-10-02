@@ -10,7 +10,9 @@ author: Nick Heymans
 I tried to start eclipse to do some java programming but i kept getteing this error:
 
 ```
-"A Java Runtime Environment (JRE) or Java Development Kit (JDK) must be available in order to run Eclipse. No Java virtual machine was found after searching the following locations:
+"A Java Runtime Environment (JRE) or Java Development Kit (JDK)
+must be available in order to run Eclipse.
+No Java virtual machine was found after searching the following locations:
 C:\Program Files\eclipse\jre\bin\javaw.exe
 javaw.exe in your current PATH
 ```
