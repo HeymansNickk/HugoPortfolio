@@ -7,9 +7,7 @@ tags:
   - School
 author: Nick Heymans
 ---
-## deze pagina dient als Eportfolio voor het vak I3Talent.
-
-### Persoonlijk Ontwikkeling
+²### Persoonlijk Ontwikkeling
 *insert DISK test image*
  
 #### DISC-Test
