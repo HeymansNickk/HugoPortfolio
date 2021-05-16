@@ -7,7 +7,7 @@ tags:
   - School
 author: Nick Heymans
 ---
-²### Persoonlijk Ontwikkeling
+### Persoonlijk Ontwikkeling
 *insert DISK test image*
  
 #### DISC-Test
