@@ -7,7 +7,7 @@ categories:
   - school
 author: Nick Heymans
 ---
-I tried to start eclipse to do some java programming but i kept getteing this error:
+I tried to start eclipse to do some java programming but i kept getting this error:
 
 ```
 "A Java Runtime Environment (JRE) or Java Development Kit (JDK)
